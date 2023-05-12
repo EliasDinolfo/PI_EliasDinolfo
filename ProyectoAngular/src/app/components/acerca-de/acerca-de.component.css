@@ -4,6 +4,7 @@ div{
 img{
     margin-top: -100px;
     border-radius: 100%;
+    max-width: 105%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
